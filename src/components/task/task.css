@@ -1,0 +1,31 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+.flow-checkbox {
+  padding-right: 10pt;
+}
+.pencil {
+  padding: 10pt;
+}
+.complete {
+  color: green;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.flex-end {
+  display: flex;
+  align-content: flex-end;
+  align-items: flex-end;
+}
+.padding {
+  padding: 10pt;
+}
+.flow-button {
+  padding-left: 10pt;
+}
+.flow-center {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+.flow-button-div {
+  padding: 20pt;
+}
+.flow-button {
+  height: 30pt;
+  width: 100pt;
+  background: white;
+}
